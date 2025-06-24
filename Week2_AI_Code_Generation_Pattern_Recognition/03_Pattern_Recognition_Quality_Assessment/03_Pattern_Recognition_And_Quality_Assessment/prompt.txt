@@ -1,0 +1,14 @@
+"Please analyze this AI-generated code and evaluate:
+@src
+Assessment Criteria:
+1. Design Pattern Usage: Is the pattern appropriate? Over-engineered?
+2. SOLID Principles: Which principles are followed/violated?
+3. Code Smells: Identify potential issues
+4. Testability: How easy would this be to unit test?
+5. Maintainability: Will this be easy to modify/extend?
+6. Performance: Any obvious performance concerns?
+Provide:
+- Overall quality score (1-10)
+- Top 3 strengths
+- Top 3 areas for improvement
+- Specific refactoring suggestions"
