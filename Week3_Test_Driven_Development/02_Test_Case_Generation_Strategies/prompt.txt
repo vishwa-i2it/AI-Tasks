@@ -1,0 +1,7 @@
+Generate unit tests for @Calculator.java that:
+- Tests all public methods
+- Covers success and failure scenarios
+- Includes boundary value testing
+- Uses Mockito syntax
+- Follows GWT pattern (Given, When, Then)
+
