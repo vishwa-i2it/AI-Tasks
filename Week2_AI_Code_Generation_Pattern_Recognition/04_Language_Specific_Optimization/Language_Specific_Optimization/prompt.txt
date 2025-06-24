@@ -1,0 +1,16 @@
+"Create a Plant-E-commerce implementation following Java/Spring Boot best practices:
+
+Java-Specific Considerations:
+- Use proper annotations (@Service, @Repository, @Component)
+- Implement proper exception handling with custom exceptions
+- Follow Java naming conventions (PascalCase for classes, camelCase for methods)
+- Use Optional<T> for nullable returns
+- Implement proper logging with SLF4J
+- Add validation annotations where appropriate
+- Include proper JavaDoc documentation
+- Consider thread safety if applicable
+Spring Boot Specific:
+- Use dependency injection properly
+- Configure properties in application.yml format
+- Include proper testing with @SpringBootTest
+- Follow RESTful conventions for controllers"
