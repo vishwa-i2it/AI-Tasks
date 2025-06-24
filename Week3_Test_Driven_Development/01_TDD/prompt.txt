@@ -1,0 +1,31 @@
+1. 
+
+I want to build a calculator function that can add two numbers.
+Create a failing test using Jest that:
+- Tests adding 2 + 3 = 5
+- Tests adding negative numbers
+- Tests adding decimal numbers
+- Uses clear, descriptive test names
+
+Language: JAVA
+
+
+2. 
+
+Create the simplest add function that will make these tests pass.
+Don't over-engineer it, just make it work.
+
+3.
+
+Look at this add function and tests. Can you improve the code quality
+while keeping all tests passing? Consider:
+- Input validation
+- Error handling
+- Code documentation
+
+
+4. 
+
+Add tests for the error handling I just added to the add function.
+
+
